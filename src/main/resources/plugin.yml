@@ -1,0 +1,4 @@
+name: ScoreboardTutorial
+version: '${project.version}'
+main: dev.tim.scoreboardtutorial.Main
+api-version: 1.19
